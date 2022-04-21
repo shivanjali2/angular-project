@@ -1,0 +1,17 @@
+nav{
+    background-color:blue;
+    padding-top: 0.5px;
+    height: 70px;
+    text-align: right;
+    
+}
+li{
+    display: inline;
+    padding: 10px;
+    
+}
+a{
+    color:black;
+    text-shadow: 100ch;
+    text-size-adjust: 100px;
+}

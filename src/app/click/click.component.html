@@ -1,0 +1,9 @@
+<p>click works!</p>
+
+<input type="text" #box (keyup)="getvalue(box.value)" placeholder="Enter the name" name="name">
+
+<button (click)="getvalue(box.name)">click me</button>
+
+<p>box value is:{{displayval}}</p>
+
+
